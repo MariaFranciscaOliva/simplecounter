@@ -1,2 +1,0 @@
-# simplecounter
-Created with CodeSandbox
